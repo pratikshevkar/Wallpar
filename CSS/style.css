@@ -59,7 +59,7 @@ a {
 }
 
 a:hover {
-    text-decoration: none; /* Add underline on hover if desired */
+    text-decoration: none;
 }
 
 .pages {
@@ -121,6 +121,20 @@ a:hover {
     margin-bottom: 8px;
 }
 
+.About {
+    color: black;
+    font-size: 9rem;
+}
+
+.main {
+    margin-top: 8rem;
+
+}
+
+.homeb {
+    margin-top: 4rem;
+
+}
 
 /* .images {
     width: auto;
